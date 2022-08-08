@@ -1,1 +1,3 @@
 # BurpFeeder
+
+Passive web scanner with backup-files finder, technologies detector (server, waf, ...) capabilities...
