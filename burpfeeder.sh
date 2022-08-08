@@ -122,6 +122,7 @@ function spidering {
 }
 
 function recording {
+    # TODO: Check if Eyewitness is installed
     echo_color $Yellow "[INFO] - Start recording juicy pages"
     for file in $(ls -1 burpfeeder/gospider/*.juicy)
     do
